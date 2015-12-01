@@ -1,0 +1,3 @@
+pandas>=0.17
+xlrd
+jupyter
